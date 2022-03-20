@@ -1,0 +1,58 @@
+site_name: DataMeet Wiki
+site_url: https://wiki.datameet.org
+site_dir: docs
+docs_dir: content
+theme:
+  name: material
+  custom_dir: theme_overrides
+  features:
+    - header.autohide
+    - navigation.expand
+    - toc.integrate
+  palette: 
+    - scheme: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  logo: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github  
+extra:
+  generator: false
+  
+extra_css:
+  - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.magiclink  
+  - meta
+  - pymdownx.highlight:
+      use_pygments: true  
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji
+
+repo_url: https://github.com/datameet/wiki.datameet.org
+edit_uri: edit/master/content
+copyright: Copyright &copy; 2021 - Creative Commons Attribution License
+
+

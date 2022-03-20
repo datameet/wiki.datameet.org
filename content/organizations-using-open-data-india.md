@@ -1,0 +1,17 @@
+====== Organizations Using Open Data in India ======
+^ Organization Name      ^ Location       ^ Type          ^  Work ^ Notes          ^
+| [[http://datameet.org|DataMeet]]    |  Bangalore    | NPO  | Spread Open Data Love   | Have meetups in various other locations. |
+| [[https://gramener.com|Gramener]]    | Bangalore | Private| Data Analysis & Visualizations | They also have offices in Hyderabad & coimbatore|
+| [[https://pykih.com/|pykih]]    | Mumbai | Private| pykih is a data design company | n.a|
+| [[https://klp.org.in//|Karnataka Learning Partnership]]    | Bangalore | NPO| To create better narratives and policies for public pre-primary and primary schools. | Publish data at [[https://klp.org.in/data/]] and [[https://klp.org.in/api/docs/#!/v1/]]|
+| [[http://knoema.com|knoema]]    |  Bangalore   | Private  | Data Collection, Data Dissemination & Data Visualization Platform (SaaS), Data Platform, Public Datasets Catalog, Visualizations, Data Analysis, World Data Atlas | Have Offices in Russia and United States. knoema - very good Public Data Catalog for free to use portal containing more than 200 million time series. Key Other Open Data Portals are:  [[http://opengovernanceindia.org/|Open Governance India]], [[http://africafoodprices.io/|Africa Food Price Collection ]], [[http://opendataforafrica.org/|Open Data for Africa]] |
+| [[http://info-design-lab.github.io/|The Information Design Lab]]    |  Bombay    | Academic Research Lab  | Current projects making data more accessible (ex. digitizing RTI datasets), and creating visualizations for more awareness.    | The Information Design Lab at IDC, IIT Bombay. The lab is run by Prof. Venkatesh Rajamanickam (also a visiting professor at NID, Bangalore) |
+| [[http://www.indiaspend.com|IndiaSpend]]    |  Mumbai    | NPO  | Data Journalism   | Uses open data to analyse a range of issues with the broader objective of fostering better governance, transparency and accountability in the Indian government. |
+| [[http://factchecker.in/|FactChecker]]    |  Mumbai    | NPO  | Data Journalism    | Has been using open data since early 2014 to scrutinise statements made by individuals in public life. |
+| [[http://nextdrop.org/|NextDrop]]    |  Bangalore    | Private  | Data based customer Service  | NextDrop, a social enterprise launched in 2011, is simplifying urban water collection in India.  Use open data and maps. |
+| [[http://openbangalore.org|OpenBangalore]]    |  Bangalore    | NPO  | Data Distribution   | Collect, Aggregate, Share Open Data related to Bangalore. Release Open Data Kits for journalists and researchers that can be consumed easily. |
+| [[http://www.indiawaterportal.org/data|India Water Portal Data]]    |  Bangalore    | NPO  | Data Distribution   | Collect, Aggregate, Share water and sanitation related data. |
+| [[http://howindialives.com|How India Lives]]    |  Delhi    | Private  | Stories   | A platform to distribute, and improve access to, public datasets. We started off with census data, but hope to add many more datasets in the future.  |
+| [[https://www.fourthlion.in/|FourthLion]]    |  Bangalore    | Private  | Data Analytics   | Our tools and analytics introduce objectivity into strategy and decision-making.  |
+
+| [[http://orgurl.com|Example ORG Name]]    |  Place    | Type of org  | What work do you do?   | Tell us something about the organization |

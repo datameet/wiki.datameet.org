@@ -1,0 +1,5 @@
+====== News Coverage ======
+  * [[http://www.thehindu.com/opinion/blogs/blog-datadelve/article6004959.ece |How India’s Open Data community has transformed knowledge in the 2014 LS election]] - The Hindu 
+
+// "      Srinivas says that many state CEOs were helpful, but he also benefitted from the generosity of journalists like Anil Padmanabhan, Deputy Managing Editor at Mint (@capitalcalculus) and the open data community on a Google Group called Datameet which helped him create shape files to fit the numbers to the map. Lastly, Srinivas, like other members of the community put the results of their hard work into the public domain for others to play with, without getting proprietary and possessive about it, something that I as a journalist have still to fully learn.
+        Datameet is a particularly great meeting place for India’s open data community, whose rallying cry this week will surely be Set The Election Commission Free. If the government won’t, it’s good to see others are making a key and passing it around."//

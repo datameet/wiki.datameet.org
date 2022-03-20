@@ -1,0 +1,9 @@
+====== Story Telling Tools ======
+  - [[http://timeline.knightlab.com/| TimelineJS]] is an open-source tool that enables anyone to build visually,rich, interactive timelines. Beginners can create a timeline using nothing more than a Google spreadsheet. Experts can use their JSON skills to create custom installations, while keeping TimelineJS's core look and functionality.
+  - [[http://storymap.knightlab.com/|StoryMapJS]] is a free tool to help you tell stories on the web that highlight the locations of a series of events. StoryMapJS is currently in a beta release. It is pretty stable in our development environment, and it has a friendly authoring tool.
+  - [[http://projects.knightlab.com/projects/newstube|NewsTube]] helps journalists and news consumers find recent, relevant newsworthy videos on YouTube.
+  - [[http://projects.knightlab.com/projects/SoundCite|SoundCite]] is a simple-to-use tool that lets you add inline audio to your story. Audio is a powerful device that can add emotion or context to a story. Unfortunately audio clips force uncomfortable choices: read or listen, but not both. Until now. 
+  - [[http://projects.knightlab.com/projects/twxplorer-lab-project|TwXplorer]] helps make Twitter search more useful by helping users find and explore chatter about topics that interest them.
+  - [[https://source.opennews.org/en-US/learning/news-app-in-two-days/ | How to make a news app in two days.]]
+  - [[http://www.pinterest.com/journalismtools/ | Tools for Journalists on Pinterest]].
+  - [[http://lab.oeco.org.br/2014/04/yby-a-new-step-on-citizen-reporting/|Yby: a new step on citizen reporting]]. Yby is  a new software focused on facilitating organizations to create their own crowd-sourcing platforms. Yby is a collaborative mapping platform. It allows users to draw points, polygons and areas, and associate media content to them
