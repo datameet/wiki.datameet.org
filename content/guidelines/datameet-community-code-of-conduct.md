@@ -1,15 +1,13 @@
-====== DataMeet Community Code of Conduct ======
+# DataMeet Community Code of Conduct
 
-===== The Quick Version =====
+## The Quick Version
 We have a few ground rules that we ask people to adhere to. This code applies equally to founders, mentors and those seeking help and guidance. Be nice to everyone involved. Be friendly and patient. Be respectful. Be considerate. Do not spam. Be careful in the words that you choose. Agree to disagree. Contact us at admin@datameet.org if you face any issues.
 
 
-----
-Below you can find the longer version with details
-----
+**Below you can find the longer version with details**
 
 
-===== Introduction =====
+## Introduction
 
 Like any other community on the web, the DataMeet team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
@@ -21,7 +19,7 @@ This code of conduct applies to all spaces managed by the DataMeet. This include
 
 If you believe someone is violating the code of conduct, we ask that you report it by emailing **admin@datameet.org**. 
 
-===== Code of Conduct =====
+## Code of Conduct
 
 
   * **Be nice to everyone involved**, the most important rule.
@@ -38,21 +36,21 @@ If you believe someone is violating the code of conduct, we ask that you report 
     * Unwelcome sexual attention.
     * Advocating for, or encouraging, any of the above behavior.
     * Repeated harassment of others. In general, if someone asks you to stop, then stop. 
-  * ** When we disagree, try to understand why**. Disagreements, both social and technical, happen all the time and DataMeet is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of DataMeet comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere, rather offer to help resolving issues and to help learn from mistakes.
+    * ** When we disagree, try to understand why**. Disagreements, both social and technical, happen all the time and DataMeet is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of DataMeet comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere, rather offer to help resolving issues and to help learn from mistakes.
 
 
 
 
-===== Questions? =====
+## Questions?
 
 If you have questions, feel free to contact us at admin@datameet.org
 
-===== Meta =====
+## Meta
 
   * Version: v.1.0
-  * Status: Published  --- //[[i@thejeshgn.com|Thejesh GN]] 2014/12/01 05:47//
-  * Author:  --- //[[thej@datameet.org|Thejesh GN]] 2014/10/25 23:52//
-  * Credits: Original text courtesy of the [[https://www.djangoproject.com/conduct/|Django]] and [[http://speakup.io/coc.html|Speak Up!]] project.
+  * Status: Published Thejesh GN 2014/12/01 05:47
+  * Author: Thejesh GN 2014/10/25 23:52
+  * Credits: Original text courtesy of the [Django](https://www.djangoproject.com/conduct/) and [Speak Up!](http://speakup.io/coc.html) project.
   * Communication:
-    * [[https://www.mail-archive.com/datameet@googlegroups.com/msg02596.html|DataMeet Community Code of Conduct - Draft - Comments please]] 
-    * [[https://www.mail-archive.com/datameet@googlegroups.com/msg02615.html|DataMeet Community Code of Conduct v.1.0 - Published - In force]]
+    * [DataMeet Community Code of Conduct - Draft - Comments please](https://www.mail-archive.com/datameet@googlegroups.com/msg02596.html)
+    * [DataMeet Community Code of Conduct v.1.0 - Published - In force](https://www.mail-archive.com/datameet@googlegroups.com/msg02615.html)
