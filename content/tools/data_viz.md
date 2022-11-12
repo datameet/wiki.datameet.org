@@ -6,6 +6,7 @@
   - [[http://www.tableausoftware.com|Tableau public (data viz)]]
   - [[http://d3js.org/|D3 Javascript visualization library]]
   - [[http://0to255.com/ | 0to255]] - Color picker.
+  - [[https://branition.com/colors)]] - Branition Colors.
   - [[http://misoproject.com/d3-chart/ | d3.chart]] - Reusable charts using d3.js
   - [[https://useiconic.com/icons/ | Iconic]] - Amazing collection of Icons, SVG
   - [[http://jiminy.medialab.sciences-po.fr/tools/palettes/ | Colors For Data Scientists]] - Generate and refine palettes of optimally distinct colors. (by Médialab Sciences-Po)
